@@ -1,2 +1,2 @@
 # Learning-pyspark
-Codes while learning pyspark
+This reposistory contains codes for projects using Pyspark.
